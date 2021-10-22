@@ -14,6 +14,8 @@ void setup() {
  j = "2";
  k = "3";
  l = ".";
+ //
+ println(g, h, i, j, k + l);
 }//End Setup()
 
 void draw() {}//End Draw()
